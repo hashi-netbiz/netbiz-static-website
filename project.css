@@ -1,0 +1,161 @@
+.nav-link {
+    font-weight:bolder;
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left : 8em;
+    margin-right : 6em;
+    font-size: large;
+}
+
+.text{
+    color:rgb(255, 17, 0);
+   
+    font-size:xx-large;
+    font-weight: bolder;
+    padding-top: 50px;
+}
+.sec{
+    margin-top: 100px;;
+}
+.title{
+    font-size: 14px;
+    font-weight: 500;
+    padding: 0;
+    line-height: 1px;
+    margin: 0 0 5px 0;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: black;
+    font-family: "Poppins", sans-serif;
+
+}
+.w{
+    font-size: 32px;
+    font-weight: 700;
+    font-family: "Playfair Display", serif;
+    color: #cda45e;
+}
+.box{
+    display: block;
+    font-size: 20px;
+    font-weight: 700;
+    border-block: 1px black;
+    height: 500px;
+}
+.card-title{
+    text-align: center;
+    font-weight: bold;
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serifSSS;
+    color:chocolate;
+    text-decoration: underline;
+}
+.card{
+    margin-bottom: 30px;
+    background-color: HoneyDew;
+}
+.card:hover {
+    border: 4px solid chocolate;
+    background-color: Azure;
+
+}
+.t{
+    font-size: 36px;
+    font-weight: 700;
+    font-family: "Playfair Display", serif;
+    margin-left:113px;
+    color: #cda45e;
+}
+.stud{
+    font-size: 36px;
+    font-weight: bold;
+    color:#cda45e;
+    font-family: "Playfair Display", serif;
+    margin-bottom: 30px;
+    margin-left: 100px;;
+
+}
+.card img {
+    width: 100%;
+    height: 10vw;
+    object-fit: cover;
+    background-color: grey;
+}
+
+input[type=text],input[type=email],button, .txtarea{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    
+     }
+
+.btn{
+         margin-left: 160px;
+         margin-top: 0px;    
+     }
+    
+.sub{
+    background-color: #f8d24b;
+    margin-bottom: 10px;;
+}
+.footer{
+    background-color:black ;
+    color:white;
+    margin-top: 30px;
+}
+.intro{
+    padding-top: 30px;
+    list-style-type: none;
+    text-decoration: none;
+   
+}
+.intro1{
+    
+    margin-left: 20px;
+    list-style-type: none;
+    text-decoration: none;
+}
+.intro2{
+    list-style-type: none;
+}
+.map{
+    margin-top:50px;
+
+}
+.container-lg{
+    position: relative;
+    text-align: center;
+    color: black;
+  }
+  /* Top left text */
+.top-left {
+    position: absolute;
+    top: 110px;
+    left: 220px;
+  }
+  
+  /* Top right text */
+  .top-right {
+    position: absolute;
+    top: 160px;
+    right: 250px;
+  }
+  .img1{
+
+    height: 400px;
+    width:100%;
+    opacity: 0.5;
+  }
+
+  ul#link li {
+    display:inline;
+    padding-right: 30px;
+    text-decoration: none;
+    
+  }
+  .fab{
+      color: white;
+  }
+  .course{
+        margin-top: 100px;
+        margin-left: 300px;
+  }

@@ -1,0 +1,71 @@
+
+.nav-link {
+    font-weight:bolder;
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left : 8em;
+    margin-right : 6em;
+    font-size: large;
+}
+.footer{
+    background-color:black ;
+    color:white;
+    margin-top: 30px;
+}
+.intro{
+    padding-top: 30px;
+    list-style-type: none;
+    text-decoration: none;
+   
+}
+.intro1{
+    
+    margin-left: 20px;
+    list-style-type: none;
+    text-decoration: none;
+}
+.intro2{
+    list-style-type: none;
+}
+.map{
+    margin-top:50px;
+
+}
+.container-lg{
+    position: relative;
+    text-align: center;
+    color: black;
+  }
+  /* Top left text */
+.top-left {
+    position: absolute;
+    top: 110px;
+    left: 220px;
+  }
+  
+  /* Top right text */
+  .top-right {
+    position: absolute;
+    top: 160px;
+    right: 250px;
+  }
+  .img1{
+
+    height: 400px;
+    width:100%;
+    opacity: 0.5;
+  }
+
+  ul#link li {
+    display:inline;
+    padding-right: 30px;
+    text-decoration: none;
+    
+  }
+  .fab{
+      color: white;
+  }
+  .course{
+        margin-top: 100px;
+        margin-left: 300px;
+  }
